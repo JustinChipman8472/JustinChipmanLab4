@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_dial"
+        android:icon="@drawable/phone"
+        android:title="Dial"
+        app:showAsAction="ifRoom|withText"/>
+    <item
+        android:id="@+id/action_exit"
+        android:title="Exit"
+        app:showAsAction="ifRoom|withText"/>
+    <item
+        android:id="@+id/action_help"
+        android:title="Help"
+        app:showAsAction="never"/>
+</menu>

@@ -6,7 +6,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 import androidx.appcompat.app.AppCompatActivity;
 import android.util.Log;
-
+// justin chipman n01598472
 public abstract class BaseActivity extends AppCompatActivity {
 
     @Override

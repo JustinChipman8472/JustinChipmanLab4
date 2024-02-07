@@ -6,4 +6,7 @@
     <string name="start">START</string>
     <string name="my_name">Justin Chipman</string>
     <string name="userinput">userInput</string>
+    <string name="second_welcom">My Second Screen Justin Chipman n01598472</string>
+    <string name="number">"Number: "</string>
+    <string name="go_next">Go Next</string>
 </resources>

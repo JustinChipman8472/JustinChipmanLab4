@@ -15,6 +15,7 @@ public class SecondActivity extends AppCompatActivity {
         long data = getIntent().getLongExtra(getString(R.string.userinput), -1000);
         Log.d("SecondActivity","Recieved data: " + data);
         TextView textView = findViewById(R.id.textView); // Assume you have a TextView to display the data
-        textView.setText(String.valueOf(data));
+        String newText = getString(R.string.number) + data;
+        textView.setText(newText);
     }
 }

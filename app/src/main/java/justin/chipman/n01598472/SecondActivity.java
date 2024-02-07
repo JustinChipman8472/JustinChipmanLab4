@@ -14,7 +14,7 @@ public class SecondActivity extends BaseActivity {
 
         long data = getIntent().getLongExtra(getString(R.string.userinput), -1000);
        // Log.d(getString(R.string.secondactivity),getString(R.string.recieved_data) + data);
-        TextView textView = findViewById(R.id.textView); // Assume you have a TextView to display the data
+        TextView textView = findViewById(R.id.textView);
         String newText = getString(R.string.number) + data;
         textView.setText(newText);
     }

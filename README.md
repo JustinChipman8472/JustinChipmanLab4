@@ -7,7 +7,7 @@ JustinLab4 is an Android application designed to demonstrate basic Android devel
 
 ## Image
 
-![image of buggs bunny]("https://daily.jstor.org/wp-content/uploads/2022/07/bugs_bunny_scholarship_is_a_wascally_wesearch_wabbit_hole_1050x700.jpg")
+![image of buggs bunny](https://daily.jstor.org/wp-content/uploads/2022/07/bugs_bunny_scholarship_is_a_wascally_wesearch_wabbit_hole_1050x700.jpg)
 
 ## Features
 

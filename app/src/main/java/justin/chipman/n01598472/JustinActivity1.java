@@ -5,10 +5,10 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
-import androidx.appcompat.app.AppCompatActivity;
+
 import com.google.android.material.snackbar.Snackbar;
 // Justin Chipman n01598472
-public class MainActivity extends BaseActivity {
+public class JustinActivity1 extends BaseActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -31,7 +31,7 @@ public class MainActivity extends BaseActivity {
                             @Override
                             public void onClick(View view) {
                                 // Start SecondActivity and pass the data
-                                Intent intent = new Intent(MainActivity.this, SecondActivity.class);
+                                Intent intent = new Intent(JustinActivity1.this, ChipmanActivity2.class);
                                 intent.putExtra(getString(R.string.userinput), data);
                                 startActivity(intent);
                             }

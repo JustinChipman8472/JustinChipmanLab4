@@ -1,11 +1,9 @@
 package justin.chipman.n01598472;
 // justin chipman n01598472
-import androidx.appcompat.app.AppCompatActivity;
 import android.widget.TextView;
 import android.os.Bundle;
-import android.util.Log;
 
-public class SecondActivity extends BaseActivity {
+public class ChipmanActivity2 extends BaseActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

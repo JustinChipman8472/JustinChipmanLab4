@@ -3,7 +3,7 @@ package justin.chipman.n01598472;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
-
+// Justin Chipman n01598472
 public class MainActivity extends AppCompatActivity {
 
     @Override

@@ -10,4 +10,11 @@
     <string name="number">"Number: "</string>
     <string name="go_next">Go Next</string>
     <string name="tel_num">tel:1234567890</string>
+    <string name="google">https://www.google.com</string>
+    <string name="app_info">App Info</string>
+    <string name="dial">Dial</string>
+    <string name="help">Help</string>
+    <string name="exit">Exit</string>
+    <string name="recieved_data">"Recieved data: "</string>
+    <string name="secondactivity">SecondActivity</string>
 </resources>

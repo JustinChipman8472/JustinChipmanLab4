@@ -5,6 +5,10 @@ Justin Chipman n01598472
 
 JustinLab4 is an Android application designed to demonstrate basic Android development concepts, including activity lifecycle management, intent usage, UI design, and logging. The app showcases how to handle user input, navigate between activities, and implement an ActionBar menu.
 
+## Image
+
+![image of buggs bunny]("https://daily.jstor.org/wp-content/uploads/2022/07/bugs_bunny_scholarship_is_a_wascally_wesearch_wabbit_hole_1050x700.jpg")
+
 ## Features
 
 - **Welcome Screen**: Displays a greeting message with the user's full name and student ID.
